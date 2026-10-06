@@ -1,0 +1,13 @@
+pymupdf
+chromadb
+langchain
+langchain-community
+langchain-google-genai
+langgraph
+sentence-transformers
+rank-bm25
+python-dotenv
+pydantic
+pandas
+httpx
+google-genai
